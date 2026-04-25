@@ -21,6 +21,9 @@ It should contain the full server launcher package, including:
 
 Use this package if you want to actually run MCPServerV2.
 
+Direct repo file:
+- [downloads/MCPServerV2.zip](../downloads/MCPServerV2.zip)
+
 ## Plugin starter package
 
 ### `MCPPluginBase.zip`
@@ -33,6 +36,9 @@ It should contain a simple MCP plugin template, usually including:
 - a short README or usage note
 
 Use this package if you want a starting point for building your own plugin folder.
+
+Direct repo file:
+- [downloads/MCPPluginBase.zip](../downloads/MCPPluginBase.zip)
 
 ## Recommended use flow
 

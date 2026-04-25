@@ -123,8 +123,12 @@ Detailed repo-side docs live in the [`docs`](docs) folder:
 ## Releases and packages
 
 The current release structure is intended to separate the full server package from the starter plugin package:
-- `MCPServerV2.zip`: full server package for players, hosts, and testers
-- `MCPPluginBase.zip`: starter MCP plugin template for plugin authors
+- [`MCPServerV2.zip`](downloads/MCPServerV2.zip): full server package for players, hosts, and testers
+- [`MCPPluginBase.zip`](downloads/MCPPluginBase.zip): starter MCP plugin template for plugin authors
+
+You can download both packages directly from the repository `downloads/` folder:
+- [downloads/MCPServerV2.zip](downloads/MCPServerV2.zip)
+- [downloads/MCPPluginBase.zip](downloads/MCPPluginBase.zip)
 
 ## Project status
 
